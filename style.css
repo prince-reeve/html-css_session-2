@@ -1,0 +1,62 @@
+body {
+    font-family: 'Lato', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    background-color: bisque;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.onepointone {
+    display: inline-block;
+}
+
+#oneleft {
+    margin-left: 20px;
+}
+
+#oneright {
+    text-align: right;
+    margin-left: 900px;
+}
+
+.twopointone {
+    display: inline-block;
+
+}
+
+#twoleft {
+    margin-left: 20px;
+}
+
+#tworight {
+    text-align: right;
+    margin-left: 900px;
+}
+
+.threepointone {
+    display: inline-block;
+}
+
+#threeleft {
+    margin-left: 20px;
+}
+
+#threeright {
+    text-align: right;
+    margin-left: 900px;
+}
+
+.fourpointone {
+    display: inline-block;
+}
+
+#fourleft {
+    margin: left 20px;
+}
+
+#fourright {
+    text-align: right;
+    margin-left: 940px;
+}
